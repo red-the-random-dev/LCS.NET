@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS.Conductors", "LCS.Conductors\LCS.Conductors.csproj", "{D82FECDE-B4EA-4CE2-A7CB-0D3D6B1CEC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS.Example", "LCS.Example\LCS.Example.csproj", "{CCFCE460-9521-4584-BF72-5172248CE43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82FECDE-B4EA-4CE2-A7CB-0D3D6B1CEC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82FECDE-B4EA-4CE2-A7CB-0D3D6B1CEC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82FECDE-B4EA-4CE2-A7CB-0D3D6B1CEC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82FECDE-B4EA-4CE2-A7CB-0D3D6B1CEC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFCE460-9521-4584-BF72-5172248CE43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFCE460-9521-4584-BF72-5172248CE43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFCE460-9521-4584-BF72-5172248CE43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFCE460-9521-4584-BF72-5172248CE43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
